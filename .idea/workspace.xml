@@ -5,34 +5,16 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d923f786-af5c-4b46-8516-5f9d1fa745b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ARecyclerView.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ARecyclerView.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/cn/droidlover/xrecyclerview/demo/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/cn/droidlover/xrecyclerview/demo/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/cn/droidlover/xrecyclerview/demo/TestRecAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/cn/droidlover/xrecyclerview/demo/TestRecAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/library/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/library.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/RecyclerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/RecyclerAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/XDataObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/XDataObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/XHeadFootViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/XHeadFootViewHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/XRecyclerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/XRecyclerAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/XRecyclerContentLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/XRecyclerContentLayout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/XRecyclerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/XRecyclerView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/divider/FlexibleDividerDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/divider/FlexibleDividerDecoration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/divider/HorizontalDividerItemDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/divider/HorizontalDividerItemDecoration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/divider/VerticalDividerItemDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/cn/droidlover/xrecyclerview/divider/VerticalDividerItemDecoration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
