@@ -1,0 +1,22 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cn.droidlover.xrecyclerview"
+4    android:versionCode="1" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="15"
+7-->E:\development\ARecyclerView\library\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="29" />
+8-->E:\development\ARecyclerView\library\src\main\AndroidManifest.xml
+9
+10    <application
+10-->E:\development\ARecyclerView\library\src\main\AndroidManifest.xml:4:5-7:19
+11        android:allowBackup="true"
+11-->E:\development\ARecyclerView\library\src\main\AndroidManifest.xml:4:18-44
+12        android:label="@string/app_name"
+12-->E:\development\ARecyclerView\library\src\main\AndroidManifest.xml:4:45-77
+13        android:supportsRtl="true" >
+13-->E:\development\ARecyclerView\library\src\main\AndroidManifest.xml:5:9-35
+14    </application>
+15
+16</manifest>

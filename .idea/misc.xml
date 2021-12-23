@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/development/ARecyclerView/app/src/main/res/layout/activity_main.xml" value="0.22135416666666666" />
+        <entry key="..\:/development/ARecyclerView/library/src/main/res/layout/x_view_recycler_content_layout.xml" value="0.19635416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,6 +1,7 @@
 package cn.droidlover.xrecyclerview;
 
-import android.support.v7.widget.RecyclerView;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 /**
  * Created by wanglei on 2016/10/30.
