@@ -1,5 +1,6 @@
 package cn.droidlover.xrecyclerview.demo;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -33,7 +34,7 @@ public class TestRecAdapter extends RecyclerAdapter<TestRecAdapter.Item, TestRec
     }
 
     @Override
-    public void onBindViewHolder(final ViewHolder holder, final int position) {
+    public void onBindViewHolder(final ViewHolder holder, @SuppressLint("RecyclerView") final int position) {
         final Item item = data.get(position);
         holder.tv_msg.setText(item.getText());
 
